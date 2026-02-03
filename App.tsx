@@ -331,7 +331,7 @@ const App: React.FC = () => {
         <div className="container mx-auto max-w-7xl space-y-24 text-left">
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-24">
              <div className="space-y-12">
-                <Logo className="h-12 grayscale invert opacity-70" />
+                <Logo className="h-16 opacity-90" />
                 <p className="text-2xl md:text-3xl serif italic opacity-40 leading-relaxed max-w-lg">
                   Maizon Marie is a sanctuary for the discerning. Pure oils, defined by vision and artistic silence.
                 </p>
